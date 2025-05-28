@@ -55,6 +55,84 @@ https://github.com/user-attachments/assets/d341b695-c862-47ea-a9bc-311f220f6409
 | **Amazon Q CLI** | AI-powered code generation and development acceleration |
 
 ---
-
 ## 📁 Project Structure
+
+space-shooter/
+│
+├── assets/ # (Optional) Pre-generated images or demo media
+├── src/
+│   ├── main.py # Game entry point
+│   ├── player.py # Player ship class
+│   ├── enemy.py # Enemy class
+│   ├── bullet.py # Bullet/projectile logic
+│   ├── powerup.py # Power-up logic
+│   ├── starfield.py # Background star generation
+│   └── game.py # Game loop and state manager
+│
+├── README.md
+├── requirements.txt
+└── LICENSE
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/space-shooter.git
+cd space-shooter
+```
+
+### 2. Install Dependencies
+
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### 3. Run the Game
+
+```bash
+python src/main.py
+```
+
+---
+
+## 📸 Screenshots
+
+*See demo section above for images.*
+
+---
+
+## 🧪 Future Enhancements
+
+- 💣 Boss levels and different enemy types
+- 🔊 Background music and sound effects
+- 🌐 Multiplayer support
+- 📱 Mobile port using Kivy or BeeWare
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🙌 Acknowledgments
+
+- Pygame
+- Amazon Q CLI for AI-assisted development
+- Open-source game dev community for tutorials and ideas
+
+---
+
+## 💬 Feedback
+
+Feel free to fork, star, and open issues or PRs for suggestions or contributions!
+
+Happy coding! 🎮
+---
 
