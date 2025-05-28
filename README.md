@@ -22,8 +22,13 @@ Amazon Q CLI significantly accelerated the prototyping and iteration process, en
 
 ## 🖥️ Demo
 
-![Gameplay GIF](./assets/demo.gif)
-
+![Amazon-Q](Documents/Screenshorts/images/Amzon-Q.png)
+![Game-Start](Documents/Screenshorts/images/Game-Start.png)
+![Game-Score](Documents/Screenshorts/images/Game-Score.png)
+![Game-Over](Documents/Screenshorts/images/Game-Over.png)
+![Amazon-Q](Documents/Screenshorts/images/Amzon-Q.png)
+Demo
+![Video](Documents/Screenshorts/images/Game-Video.mov)
 ---
 
 ## 🧩 Features
